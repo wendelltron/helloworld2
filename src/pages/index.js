@@ -84,6 +84,7 @@ const IndexPage = () => (
       <h1>
         Welcome to <b>CSC496!!</b>
       </h1>
+	<h2>Now with 381% more github actions!!! </h2>
       <p className={styles.intro}>
         <b>Example pages:</b>{" "}
         {samplePageLinks.map((link, i) => (
