@@ -29,7 +29,7 @@ jobs:
       - name: Verify build
         run: ls -la public
       
-      - name: Setup SSH
+      - name: Setup SSH For CSC496
         run: |
           mkdir -p ~/.ssh/
           echo "${{ secrets.ssh_private_key }}" > ~/.ssh/deploy_key
