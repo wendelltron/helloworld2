@@ -17,7 +17,7 @@ const links = [
     text: "Examples",
     url: "https://github.com/gatsbyjs/gatsby/tree/master/examples",
     description:
-      "A collection of websites ranging from very basic to complex/complete that illustrate how to accomplish specific tasks within your Gatsby sites.",
+      "A asdasdasdsadsadsad of asdasdsd ranging from very basic to complex/complete that illustrate how to accomplish specific tasks within your Gatsby sites.",
   },
   {
     text: "Plugin Library",
@@ -82,7 +82,7 @@ const IndexPage = () => (
         style={{ marginBottom: `var(--space-3)` }}
       />
       <h1>
-        Welcome to <b>Gatsby!</b>
+        Welcome to <b>CSC496!!</b>
       </h1>
       <p className={styles.intro}>
         <b>Example pages:</b>{" "}
